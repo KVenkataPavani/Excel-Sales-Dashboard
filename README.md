@@ -1,6 +1,6 @@
 # Excel-Sales-Dashboard
 # Microfinance-Loan-Insights-and-Visualizing-Lending-Patterns-Power-BI
-![Sales Dashboard](Excel-Sales-Dashboard/Excel%20Sales%20Dashboard.png)
+![Sales Dashboard]("Excel-Sales-Dashboard/Excel Sales Dashboard.png")
 
 
 ## Table of Contents
